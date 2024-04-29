@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/create-react-app/task_4/dashboard/static/css/main.b7d9a30c.css",
-    "main.js": "/create-react-app/task_4/dashboard/static/js/main.522d9f47.js",
-    "static/js/453.59b8a61b.chunk.js": "/create-react-app/task_4/dashboard/static/js/453.59b8a61b.chunk.js",
-    "static/media/logo.jpg": "/create-react-app/task_4/dashboard/static/media/logo.24bab5d633e36ca8d17e.jpg",
-    "index.html": "/create-react-app/task_4/dashboard/index.html",
-    "main.b7d9a30c.css.map": "/create-react-app/task_4/dashboard/static/css/main.b7d9a30c.css.map",
-    "main.522d9f47.js.map": "/create-react-app/task_4/dashboard/static/js/main.522d9f47.js.map",
-    "453.59b8a61b.chunk.js.map": "/create-react-app/task_4/dashboard/static/js/453.59b8a61b.chunk.js.map"
+    "main.css": "/create-react-app/static/css/main.b7d9a30c.css",
+    "main.js": "/create-react-app/static/js/main.b49628ee.js",
+    "static/js/453.59b8a61b.chunk.js": "/create-react-app/static/js/453.59b8a61b.chunk.js",
+    "static/media/logo.jpg": "/create-react-app/static/media/logo.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/create-react-app/index.html",
+    "main.b7d9a30c.css.map": "/create-react-app/static/css/main.b7d9a30c.css.map",
+    "main.b49628ee.js.map": "/create-react-app/static/js/main.b49628ee.js.map",
+    "453.59b8a61b.chunk.js.map": "/create-react-app/static/js/453.59b8a61b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7d9a30c.css",
-    "static/js/main.522d9f47.js"
+    "static/js/main.b49628ee.js"
   ]
 }
